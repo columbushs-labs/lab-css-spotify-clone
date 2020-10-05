@@ -6,3 +6,31 @@ Green: #00B172
 White: #FFF
 
 */
+
+
+#navbar img {
+    width: 150px;
+}
+
+#links {
+    display: inline-block;
+}
+
+.link {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+}
+
+.float-right {
+    float: right;
+}
+
+#hero img {
+    width: 100vw;
+}
+
+.info-box img {
+    width: 75px;
+}
